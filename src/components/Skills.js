@@ -13,7 +13,7 @@ export default function Skills() {
           </h1>
           <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
             I've carefully crafted my skillset for Full-Stack modern web
-            development, with other entries to come I'd make a great addition to
+            development, with more entries to come I'd make a great addition to
             any team.
           </p>
         </div>
