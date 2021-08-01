@@ -74,8 +74,8 @@ export default function Contact() {
             Hire Me
           </h2>
           <p className="leading-relaxed mb-5">
-            Lets sit down and talk, I'd love an opportunity to speak to you
-            about your work.
+            Send me a message and lets sit down and talk, I'd love an
+            opportunity to speak to you about your work.
           </p>
           <div className="relative mb-4">
             <label htmlFor="name" className="leading-7 text-sm text-gray-400">
