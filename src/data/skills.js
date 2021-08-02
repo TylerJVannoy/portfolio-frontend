@@ -1,5 +1,6 @@
 export const skills = [
   "React",
+  "Redux",
   "Node",
   "Javascript",
   "SQL",
