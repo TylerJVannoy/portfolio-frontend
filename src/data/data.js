@@ -27,7 +27,7 @@ export const projects = [
     title: "React Youtube",
     subtitle: "React Hooks and 3rd Party API",
     description:
-      "A very scaled down version of youtube that calls the youtube API and plays videos",
+      "A scaled down version of youtube that makes use of REST API calls and React state management.",
     image: "https://i.imgur.com/yV2016R.png",
     link: "https://github.com/TylerJVannoy/React-youtube",
   },
