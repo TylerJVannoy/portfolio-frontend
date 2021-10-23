@@ -16,7 +16,7 @@ export const projects = [
     link: "https://github.com/TylerJVannoy/Civilopedia6",
   },
   {
-    title: "React Youtube",
+    title: "BiOptimizers",
     subtitle: "React Hooks and 3rd Party API",
     description:
       "A very scaled down version of youtube that calls the youtube API and plays videos",
