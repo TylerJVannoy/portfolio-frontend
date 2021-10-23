@@ -17,19 +17,18 @@ export const projects = [
   },
   {
     title: "BiOptimizers",
+    subtitle: "BiOptimizers Video Catalogue Page",
+    description:
+      "Project for BiOptimizers USA, includes google ads API, youtube API, and tested for optimization via Lighthouse tool. Made with React and hosted via Vercel.",
+    image: "https://i.imgur.com/yV2016R.png",
+    link: "https://github.com/TylerJVannoy/React-youtube",
+  },
+  {
+    title: "React Youtube",
     subtitle: "React Hooks and 3rd Party API",
     description:
       "A very scaled down version of youtube that calls the youtube API and plays videos",
     image: "https://i.imgur.com/yV2016R.png",
     link: "https://github.com/TylerJVannoy/React-youtube",
-  },
-  {
-    title: "React Widgets",
-    subtitle: "React Hooks, API, State",
-    description:
-      "A collection of react components making use of Hooks, Props, and State Management",
-    image:
-      "https://www.w3.org/WAI/content-images/wai-selecting-eval-tools/video-thumb-tools.png",
-    link: "https://github.com/TylerJVannoy/React-Components",
   },
 ];
