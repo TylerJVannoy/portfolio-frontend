@@ -19,9 +19,9 @@ export const projects = [
     title: "BiOptimizers",
     subtitle: "BiOptimizers Video Catalogue Page",
     description:
-      "Project for BiOptimizers USA, includes google ads API, youtube API, and tested for optimization via Lighthouse tool. Made with React.",
-    image: "https://i.imgur.com/yV2016R.png",
-    link: "https://github.com/TylerJVannoy/React-youtube",
+      "Wikipedia Search Tool using React JS and the Wikipedia API! I use useState as well as html rendering in React JS!",
+    image: "https://i.imgur.com/jHSgNay.png",
+    link: "https://wiki-phi-umber.vercel.app/",
   },
   {
     title: "VideoChan",
