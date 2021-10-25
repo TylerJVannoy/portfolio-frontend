@@ -27,7 +27,7 @@ export const projects = [
     title: "VideoChan",
     subtitle: "React Hooks and 3rd Party API",
     description:
-      "A fun spin on what youtube does this makes use of REST API calls and React state management, with hooks and great styling via Bootstrap and custom css.",
+      "A fun spin on what youtube does this makes use of REST API calls, state management, with hooks and great styling via Bootstrap and custom css.",
     image: "https://i.imgur.com/RQmtbF0.png",
     link: "https://github.com/TylerJVannoy/VideoChanRedo",
   },
