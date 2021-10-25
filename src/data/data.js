@@ -28,7 +28,7 @@ export const projects = [
     subtitle: "React Hooks and 3rd Party API",
     description:
       "A fun spin on what youtube does this makes use of REST API calls and React state management, with hooks and great styling via Bootstrap and custom css.",
-    image: "https://imgur.com/a/FTnjf58",
+    image: "https://i.imgur.com/RQmtbF0.png",
     link: "https://github.com/TylerJVannoy/VideoChanRedo",
   },
 ];
