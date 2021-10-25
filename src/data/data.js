@@ -29,6 +29,6 @@ export const projects = [
     description:
       "A fun spin on what youtube does this makes use of REST API calls, state management, with hooks and great styling via Bootstrap and custom css.",
     image: "https://i.imgur.com/RQmtbF0.png",
-    link: "https://github.com/TylerJVannoy/VideoChanRedo",
+    link: "https://video-chan-redo.vercel.app/",
   },
 ];
