@@ -16,8 +16,8 @@ export const projects = [
     link: "https://github.com/TylerJVannoy/Civilopedia6",
   },
   {
-    title: "BiOptimizers",
-    subtitle: "BiOptimizers Video Catalogue Page",
+    title: "Wiki Seeker",
+    subtitle: "Animated Wiki Search Page",
     description:
       "Wikipedia Search Tool using React JS and the Wikipedia API! I use useState as well as html rendering in React JS!",
     image: "https://i.imgur.com/jHSgNay.png",
