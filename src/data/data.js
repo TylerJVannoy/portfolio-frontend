@@ -24,11 +24,11 @@ export const projects = [
     link: "https://github.com/TylerJVannoy/React-youtube",
   },
   {
-    title: "React Youtube",
+    title: "VideoChan",
     subtitle: "React Hooks and 3rd Party API",
     description:
-      "A scaled down version of youtube that makes use of REST API calls and React state management.",
-    image: "https://i.imgur.com/yV2016R.png",
-    link: "https://github.com/TylerJVannoy/React-youtube",
+      "A fun spin on what youtube does this makes use of REST API calls and React state management, with hooks and great styling via Bootstrap and custom css.",
+    image: "https://imgur.com/a/FTnjf58",
+    link: "https://github.com/TylerJVannoy/VideoChanRedo",
   },
 ];
