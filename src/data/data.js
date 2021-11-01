@@ -3,7 +3,7 @@ export const projects = [
     title: "Yelp Camp",
     subtitle: "Mongo Express Node",
     description:
-      "Yelp but for Campgrounds, find and review campgrounds near you or add your own!",
+      "Yelp but for Campgrounds, Made with Express, MongoDB, and Server-Side rendering",
     image: "https://wallpaperaccess.com/full/181060.jpg",
     link: "https://github.com/TylerJVannoy/Yelp-Camp",
   },
@@ -11,7 +11,7 @@ export const projects = [
     title: "Chat App",
     subtitle: "MERN Stack",
     description:
-      "A scalable repository for your modded Civilizations to store information in a wikipedia style format",
+      "A real time chat app that connects users with eachother. made with getstream.io React and React hooks",
     image: "https://i.imgur.com/5T3ZGVQ.png",
     link: "https://happy-montalcini-67c5e6.netlify.app/",
   },
