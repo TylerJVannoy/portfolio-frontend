@@ -8,12 +8,12 @@ export const projects = [
     link: "https://github.com/TylerJVannoy/Yelp-Camp",
   },
   {
-    title: "Civilopedia 6",
+    title: "Chat App",
     subtitle: "MERN Stack",
     description:
       "A scalable repository for your modded Civilizations to store information in a wikipedia style format",
-    image: "https://i.imgur.com/3OLTFVq.jpeg",
-    link: "https://github.com/TylerJVannoy/Civilopedia6",
+    image: "https://i.imgur.com/5T3ZGVQ.png",
+    link: "https://happy-montalcini-67c5e6.netlify.app/",
   },
   {
     title: "Wiki Seeker",
